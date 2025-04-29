@@ -95,7 +95,7 @@
   }
   
   .cta-button {
-    color: #000; 
+    color: #555555; 
     background-color: #fff; 
     font-size: 1.5rem; 
     padding: 10px 20px; 
@@ -248,6 +248,6 @@
   }
   
   button:hover, a:hover {
-    color: #ffcc00;
+    color: #dddddd;
   }
   
